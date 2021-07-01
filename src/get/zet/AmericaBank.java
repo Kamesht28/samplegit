@@ -1,6 +1,8 @@
 package get.zet;
 
 public interface AmericaBank {
-public abstract void deposit();
-void sav();
+	public static void main(String[] args) {
+		System.out.println("Git");
+	}
+
 }
